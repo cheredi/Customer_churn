@@ -1,4 +1,4 @@
-**Customer_Churn Prediction**
+**Case Study: Customer Churn Prediction Model for E-Commerce**
 
 
-Build a classification model to predict whether a customer will leave a service based on usage data and demographics.
+This case study presents the development and deployment of a machine learning model to predict customer churn for an e-commerce platform. Using historical customer interaction data (N=5,630) encompassing behavioral, transactional, and demographic features, we implemented a comprehensive analytical pipeline including data preprocessing, feature engineering, and class imbalance correction via SMOTE. Six machine learning models were evaluated, with Random Forest achieving superior performance (98% accuracy, 0.988 ROC AUC). Key findings identify customer complaints, tenure duration, and cashback amounts as critical churn predictors. The study demonstrates how predictive analytics can enable targeted retention strategies, potentially reducing customer attrition by 15-20%. Practical implications for e-commerce businesses and methodological considerations for handling imbalanced datasets are discussed.
